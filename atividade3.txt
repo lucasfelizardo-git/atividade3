@@ -1,0 +1,91 @@
+html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Semana Nacional de Ciência e Tecnologia 2024 - Tema: Biomas do Brasil">
+    <title>Semana Nacional de Ciência e Tecnologia 2024</title>
+    <link rel="stylesheet" href="/css/css.style">
+</head>
+<body>
+
+    <header>
+        <h1>Semana Nacional de Ciência e Tecnologia 2024</h1>
+        <p>Tema: "Biomas do Brasil - Preservação e Sustentabilidade"</p>
+    </header>
+
+    <nav>
+        <a href="#sobre">Sobre o Evento</a>
+        <a href="#biomas">Biomas do Brasil</a>
+        <a href="#agenda">Agenda</a>
+        <a href="#Biomas abordados por cada turma">Biomas abordados por cada turma</a>
+        <a href="#contato">Contato</a>
+    </nav>
+
+   
+        <h2>Sobre o Evento</h2>
+        <p>A Semana Nacional de Ciência e Tecnologia 2024 traz como tema central os biomas brasileiros, com foco na preservação, sustentabilidade e inovação científica. O evento promove o debate sobre a importância dos biomas e as estratégias para sua conservação, destacando o papel da ciência e da tecnologia no equilíbrio ecológico do país.</p>
+
+
+   
+        <h2>Biomas do Brasil</h2>
+        <div class="biomas-container">
+            <div class="bioma">
+                <h3>Amazônia</h3>
+                <p>A Amazônia é a maior floresta tropical do mundo, abrigando uma imensa biodiversidade. Sua preservação é vital para o equilíbrio climático global.</p>
+            </div>
+            <div class="bioma">
+                <h3>Cerrado</h3>
+                <p>O Cerrado é conhecido como a savana brasileira, sendo um dos biomas mais ricos em biodiversidade. É fundamental para a recarga dos aquíferos do país.</p>
+            </div>
+            <div class="bioma">
+                <h3>Mata Atlântica</h3>
+                <p>A Mata Atlântica é um dos biomas mais ameaçados do Brasil, abrigando diversas espécies endêmicas e desempenhando um papel crucial na regulação do clima.</p>
+            </div>
+            <div class="bioma">
+                <h3>Pantanal</h3>
+                <p>O Pantanal é a maior área úmida do mundo e um importante ecossistema para a conservação de espécies, sendo conhecido pela rica fauna aquática e terrestre.</p>
+            </div>
+            <div class="bioma">
+                <h3>Caatinga</h3>
+                <p>A Caatinga é o único bioma exclusivamente brasileiro, caracterizado por um clima semiárido e uma flora adaptada a longos períodos de seca.</p>
+            </div>
+            <div class="bioma">
+                <h3>Pampa</h3>
+                <p>O Pampa, localizado no sul do Brasil, é uma região de vastas pastagens, com grande importância para a biodiversidade e a pecuária.</p>
+            </div>
+        </div>
+    </section>
+
+   
+        <h2>Agenda</h2>
+        <ul>
+            <li><strong>14 de outubro:</strong> Abertura oficial do evento</li>
+            <li><strong>15 de outubro:</strong> Palestra: "Ciência e Sustentabilidade nos Biomas Brasileiros"</li>
+            <li><strong>16 de outubro:</strong> Workshop: "Tecnologia e Inovações para a Preservação"</li>
+        </ul>
+    
+   
+        <h2>Biomas abordados por cada turma</h2>
+        <ul>
+            <li><strong>1 ano "A" Informática</strong> - Pantanal</li>
+            <li><strong>1 ano "B" Informática</strong> - Caatinga</li>
+            <li><strong>1 ano "A" Segurança do trabalho</strong> - Pampa</li>
+            <li><strong>1 ano "B" Segurança do trabalho</strong> - Amazônia</li>
+            <li><strong>2 ano "A" Informática</strong> - Mata Atlântica</li>
+            <li><strong>2 ano "B" Informática</strong> - Biomas do Nordeste</li>
+            <li><strong>3 ano "A" Informática</strong> - Biomas de Alagoas</li>
+            <li><strong>3 ano "B" Informática</strong> - Cerrado</li>
+        </ul>
+   
+
+    
+        <h2>Contato</h2>
+        <p>Para mais informações, entre em contato pelo e-mail: <strong>contato@snct2024.com</strong></p>
+    
+
+<img src="/Nova pasta/trupedomal.jfif">
+
+</body>
+</html>
